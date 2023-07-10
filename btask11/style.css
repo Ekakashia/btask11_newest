@@ -1,0 +1,341 @@
+@font-face{
+    font-family: "dm";
+    src: url(./DMSans-Regular.ttf);
+    font-family: "noto";
+    src: url(./NotoSans-Regular.ttf);
+}
+*{
+    box-sizing: border-box;
+}
+.a1{
+    font-family: "dm" !important;
+    font-size: 24px !important;
+    font-weight: 700 !important;
+    line-height: 31.25px !important;
+    color: hsla(0, 0%, 100%, 1) !important;
+    text-decoration: none !important;
+}
+.a1{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.79px;
+    color: hsla(0, 0%, 100%, 0.8);
+}
+.b{
+    width: 112px;
+    height: 39px;
+    background-color: hsla(0, 0%, 100%, 0.1);
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+    border-radius: 3px;
+    font-family: "noto";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.07px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.p1{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32px;
+    color: hsla(169, 97%, 54%, 1);
+}
+.p2{
+    font-family: "noto";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.p3{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+.b1{
+    width: 202px;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(0, 0%, 100%, 1);
+    border: 1px solid hsla(259, 97%, 54%, 1);
+    background-color: hsla(259, 97%, 54%, 1);
+    border-radius: 3px;
+}
+.b2{
+    width: 200px;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(0, 0%, 100%, 1);
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+    background-color: hsla(0, 0%, 100%, 0.1);
+    border-radius: 3px;
+}
+.box{
+    background-color: hsla(0, 0%, 100%, 0.05);
+    height: 276px;
+}
+.p4{
+    font-family: "noto";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24.52px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.p5{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32px;
+    color: hsla(169, 97%, 54%, 1);
+}
+.d1{
+   
+    height: 102px;
+    border: 1px solid hsla(0, 0%, 100%, 0.1) !important;
+}
+.d3{
+    border-top: 1px solid hsla(0, 0%, 100%, 0.1) !important;
+}
+.p6{
+    font-family: "noto";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.img{
+    width: 503px;
+    height: 490px;
+}
+.p7{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+.b3{
+    width: 196px;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(0, 0%, 100%, 1);
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+    background-color: hsla(0, 0%, 100%, 0.1);
+    border-radius: 3px;
+}
+.img2{
+    width: 500px !important;
+    height: 549px !important;
+}
+.img3{
+    width: 154px !important;
+    height: 26px !important;
+}
+.img4{
+    width: 94px !important;
+    height: 26px !important;
+}
+.img5{
+    width: 194px !important;
+    height: 256px !important;
+}
+.img8{
+    width: 368px !important;
+}
+.header1{
+    background-color: hsla(240, 30%, 12%, 1) !important;
+    border: 1px solid hsla(0, 0%, 100%, 0.1) !important;
+}
+.card1{
+    background-color: hsla(0, 0%, 100%, 0.1) !important;
+}
+.p8{
+    font-weight: bold;
+    font-family: "noto";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 34px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.p9{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 34px;
+    color: hsla(0, 0%, 100%, 0.6);
+    text-align: center;
+}
+.b8{
+    width: 100px;
+    height: 39px;
+    font-family: "noto";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.07px;
+    color: hsla(0, 0%, 100%, 1);
+    border: 1px solid hsla(0, 0%, 100%, 1);
+    background-color: hsla(0, 0%, 0%, 0.1);
+    border-radius: 100px;
+}
+.d2{
+    height: 911px;
+    background-color: hsla(259, 64%, 17%, 1);
+    border: 1px solid hsla(259, 64%, 17%, 1);
+    border-radius: 30px;
+}
+.p10{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.card2{
+    background-color: hsla(259, 55%, 31%, 1) !important;
+    height: 474px !important;
+    border-radius: 10px !important;
+}
+.p11{
+    font-family: "noto";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+.p12{
+    font-family: "noto";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 49px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.p13{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 36px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.b4{
+    width: 224px;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(260, 55%, 31%, 1);
+    border: 1px solid hsla(0, 0%, 100%, 1);
+    background-color: hsla(0, 0%, 100%, 1);
+    border-radius: 3px;
+}
+.bord{
+    border-top: 1px solid hsla(0, 0%, 100%, 0.05);
+}
+.card3{
+    background-color: hsla(227, 55%, 31%, 1) !important;
+    height: 474px !important;
+    border-radius: 10px !important;
+}
+.card4{
+    background-color: hsla(313, 55%, 31%, 1) !important;
+    height: 474px !important;
+    border-radius: 10px !important;
+}
+.b5{
+    width: 224px;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(227, 55%, 31%, 1);
+    border: 1px solid hsla(0, 0%, 100%, 1);
+    background-color: hsla(0, 0%, 100%, 1);
+    border-radius: 3px;
+}
+.b6{
+    width: 224px !important;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(313, 55%, 31%, 1) !important;
+    border: 1px solid hsla(0, 0%, 100%, 1) !important;
+    background-color: hsla(0, 0%, 100%, 1) !important;
+    border-radius: 3px;
+}
+.card5{
+    background-color: hsla(0, 0%, 100%, 0.05) !important;
+    height: 447px !important;
+    border-radius: 3px !important;
+}
+.p14{
+    font-family: "noto";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.07px;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+.card6{
+    background-color: hsla(0, 0%, 100%, 0.05) !important;
+    height: 447px !important;
+    border-radius: 3px !important;
+    border: 2px solid hsla(259, 97%, 54%, 1) !important;
+}
+.d4{
+    height: 190px;
+    border-bottom: 1px solid hsla(0, 0%, 100%, 0.1);
+    border-top: 1px solid hsla(0, 0%, 100%, 0.1);
+}
+.b9{
+    width: 162px;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(0, 0%, 100%, 1);
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+    background-color: hsla(0, 0%, 100%, 0.1);
+    border-radius: 3px;
+}
+.b7{
+    width: 202px;
+    height: 52px;
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: hsla(0, 0%, 100%, 1);
+    border: 1px solid hsla(259, 97%, 54%, 1);
+    background-color: hsla(259, 97%, 54%, 1);
+    border-radius: 3px;
+    margin-left: 25px;
+}
+.p15{
+    font-family: "noto";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.07px;
+    color: hsla(0, 0%, 100%, 1);
+}
+.p16{
+    font-family: "noto";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: hsla(0, 0%, 100%, 0.6);
+}
